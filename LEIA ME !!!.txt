@@ -1,0 +1,5 @@
+Para conseguir criar corretamento seus extratos.txt realoque o endereçamento do criação para o local certo onde foi alojado o trab em sua maquina
+
+ StreamWriter sw = new StreamWriter("C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\PayrollTech - Desktop\\Extratos\\Extrato.txt");
+
+Mude o endereçamento a cima

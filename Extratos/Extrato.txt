@@ -1,0 +1,9 @@
+Estrato Folha de Pagamento
+ 
+Nome Do funcionario:Gabriel Souza Rodrigues
+Cargo:Dev Junior
+Salario Bruto: 2061,875
+Valor Total Horas Extras: 61,875
+Imposto De Renda: 154,640625
+Desconto INSS: 185,56875
+Salario Liquido1721,665625
